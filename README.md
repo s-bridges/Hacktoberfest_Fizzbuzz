@@ -20,6 +20,7 @@ Write a solution (or reduce an existing one) so it has as few characters as poss
 - Create a new file in the challenge folder titled with your username.language extension. <br>
 `s-bridges.py or s-bridges.cpp`
 - Include your github link in the top above your code.
+- Optional, Open CONTRIBUTING.MD add your name, github link, and any information you feel like sharing.
 - Add and commit your changes <br>
 `git add .`<br>
 `git commit -m 'I wrote this in C#'` <br>

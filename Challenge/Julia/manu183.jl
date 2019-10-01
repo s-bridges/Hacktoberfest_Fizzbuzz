@@ -1,0 +1,1 @@
+print(join([i%15==0 ? "Spider" : i%5==0 ? "Ghost" : i%3==0 ? "Rat" : i for i in 1:100],'\n'))

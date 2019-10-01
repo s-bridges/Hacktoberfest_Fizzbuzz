@@ -8,9 +8,6 @@
 #### Name: [Aachman Mittal](https://github.com/m-aachman)
 - Bio: Engineering student (computer science)
 - Location: India
-#### Name: []()
-- Bio: 
-- Location
-### Name: [Braden Shipley](https://github.com/bradenshipley)
+#### Name: [Braden Shipley](https://github.com/bradenshipley)
 - Bio: Software Developer 
-- Location TX, United States
+- Location: TX, United States

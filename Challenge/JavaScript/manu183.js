@@ -1,0 +1,1 @@
+console.log([...Array(100).keys()].map(c=>(c+1)%15==0?'Spider':((c+1)%5==0?'Ghost':((c+1)%3==0?'Rat':c+1))).join('\n'));

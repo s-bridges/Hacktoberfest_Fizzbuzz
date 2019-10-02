@@ -11,3 +11,9 @@
 #### Name: [Braden Shipley](https://github.com/bradenshipley)
 - Bio: Software Developer 
 - Location: TX, United States
+
+#### Name: [Ankit Rai](https://github.com/spaceySama)
+- Bio: Student 
+- Location: Durgapur, India
+
+

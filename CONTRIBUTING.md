@@ -11,9 +11,6 @@
 #### Name: [Braden Shipley](https://github.com/bradenshipley)
 - Bio: Software Developer 
 - Location: TX, United States
-#### Name: [Jonas Pucher](https://github.com/PucklaMotzer09)
-- Bio: Software Engineer
-- Location: Graz, Austria
 #### Name: [Chip Baker](https://github.com/diab3t3s)
 - Bio: Student
 - Location PA, United States

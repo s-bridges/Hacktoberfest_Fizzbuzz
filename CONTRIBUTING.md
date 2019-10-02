@@ -11,6 +11,9 @@
 #### Name: [Braden Shipley](https://github.com/bradenshipley)
 - Bio: Software Developer 
 - Location: TX, United States
+### Name: [Chip Baker](https://github.com/diab3t3s)
+- Bio: Student
+- Location PA, United States
 #### Name: [JT Kaufman](https://github.com/jtk-codes)
 - Bio: Software Engineer & Student
 - Location: Durham, NC United States 

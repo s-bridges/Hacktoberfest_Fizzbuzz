@@ -11,3 +11,6 @@
 #### Name: [Braden Shipley](https://github.com/bradenshipley)
 - Bio: Software Developer 
 - Location: TX, United States
+#### Name: [JT Kaufman](https://github.com/jtk-codes)
+- Bio: Software Engineer & Student
+- Location: Durham, NC United States 

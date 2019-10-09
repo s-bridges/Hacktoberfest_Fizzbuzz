@@ -1,0 +1,1 @@
+class FizzBuzz{public static void main(String[] args){for(int i=1;i<=100;i++){String msg=Integer.toString(i);boolean a=(i%3==0);boolean b=(i%5==0);if(a&&b){msg="Spider";}else if(a){msg="Rat";}else if(b){msg="Ghost";}System.out.println(msg);}}}

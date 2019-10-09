@@ -9,4 +9,4 @@ def fizzbuzz(n):
             s='Ghost'
         print(s or i)
 
-print(fizzbuzz(100))
+fizzbuzz(101)

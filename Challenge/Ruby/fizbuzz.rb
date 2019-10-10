@@ -1,4 +1,4 @@
-1.upto(100) do |i=1|
+1.upto(100) do |i|
     str='Rat' if i%3==0
     str='Ghost' if i%5==0
     str='Spider' if i%15==0

@@ -42,6 +42,11 @@
 - Bio: CS undergrad
 - Location: HR, India
 
+#### Name: [Emilie Gervais](https://github.com/hexangel616)
+
+- Bio: Full Stack Dev
+- Location: France
+
 #### Name: [doom3007](https://github.com/doom3007)
 
 - Bio: Software Developer

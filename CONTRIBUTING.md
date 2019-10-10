@@ -2,6 +2,12 @@
 - Bio:
 - Location:--->
 
+
+#### Name: [Jatin Chauhan](https://github.com/mrjatinchauhan)
+
+- Bio: Student
+- Location: India
+
 #### Name: [Seth Bridges](https://github.com/s-bridges)
 
 - Bio: Software Developer Student

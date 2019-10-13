@@ -1,6 +1,12 @@
 <!---#### Name: []()
 - Bio:
 - Location:--->
+
+#### Name: [Eddie Fisehr](https://github.com/frogo123)
+
+- Bio: Student
+- Location: UK
+
 #### Name: [Ambuj Raj](https://github.com/ambujraj)
 
 - Bio: Student

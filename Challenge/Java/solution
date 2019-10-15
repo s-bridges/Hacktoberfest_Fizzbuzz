@@ -1,0 +1,17 @@
+public class Solution {
+    public static void main(String[] args) {
+        for (int i = 0; i < 100; i++) {
+            int threeDivisonRemainder = i % 3;
+            int fiveDivisionRemainder = i % 5;
+            if (threeDivisonRemainder == 0 && threeDivisonRemainder == 0) {
+                System.out.println("Spider");
+            } else if (threeDivisonRemainder == 0) {
+                System.out.println("Rat");
+            } else if (fiveDivisionRemainder == 0) {
+                System.out.println("Ghost");
+            } else {
+                System.out.println(i);
+            }
+        }
+    }
+}

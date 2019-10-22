@@ -12,7 +12,6 @@
 - Bio: Student
 - Location: India
 
-
 #### Name: [Seth Bridges](https://github.com/s-bridges)
 
 - Bio: Software Developer Student
@@ -25,7 +24,7 @@
 
 #### Name: [Braden Shipley](https://github.com/bradenshipley)
 
-- Bio: Software Developer 
+- Bio: Software Developer
 - Location: TX, United States
 
 #### Name: [Chip Baker](https://github.com/diab3t3s)
@@ -40,7 +39,7 @@
 
 #### Name: [Ankit Rai](https://github.com/spaceySama)
 
-- Bio: Student 
+- Bio: Student
 - Location: Durgapur, India
 
 #### Name: [Jonas Pucher](https://github.com/PucklaMotzer09)
@@ -62,3 +61,8 @@
 
 - Bio: Software Developer
 - Location: Center, Israel
+
+#### Name: [Nandom Alfred](https://github.com/scotrolex)
+
+- Bio: Frotend Web Developer
+- Location: Jos, Nigeria
